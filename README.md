@@ -4,6 +4,8 @@ Developed with [Three.JS](https://threejs.org), allowing users to freely navigat
 
 Exo Explorer is meant to demonstrate the usefulness of the Habitable Worlds Observatory (HWO). An important part of Exo Explorer is the ability to change the telescope diameter between 5 and 15m. Changing this diameter updates the list and interactive explorer with the proper characterizable planets. This would allow one to demonstrate which planets the HWO would be able to observe.
 
+https://bolst.github.io/ExoExplorer/
+
 ## Running
 
 ```bash
